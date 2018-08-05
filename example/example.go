@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/kzyn/azure-sas"
+	sas "github.com/k-nhr/azure-sas"
 )
 
 func main() {
