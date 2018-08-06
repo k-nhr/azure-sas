@@ -16,5 +16,5 @@ func main() {
 		panic(err)
 	}
 
-	fmt.Printf("SAS Token+ %s \n", token)
+	fmt.Printf("SAS Token: %s \n", token)
 }
